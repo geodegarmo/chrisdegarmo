@@ -4,6 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Job Experience
   <br><br>
   4+ years as a Geospatial Analyst with extensive experience in remote sensing and landuse landcover. I’ve had the privilege of working with leading organizations like Wiser Imagery Services, MAXAR Technologies, Lockheed Martin, and The Climate Corporation.
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
