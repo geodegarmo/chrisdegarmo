@@ -1,11 +1,11 @@
 title: Chris DeGarmo # your name (or website title) here
 logo: "/images/PPhoto.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First Description
+  Geospatial Analyst
   <br><br>
-  5+ years as a Geospatial Analyst with extensive experience in remote sensing and landuse landcover. I’ve had the privilege of working with leading organizations like Wiser Imagery Services, MAXAR Technologies, Lockheed Martin, and The Climate Corporation.
+  
+  <br><br>
+  <a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
 
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+plugins: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
