@@ -1,11 +1,28 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Chris DeGarmo # your name (or website title) here
+logo: "file:///Users/cdegarmo/Documents/personalPhoto/IMG_1811.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
+Hello All,
+
+My name is Chris DeGarmo, and I’m a Geospatial Research Scientist and Analyst
+with extensive experience in geospatial technologies. I’m currently pursuing a
+Master’s degree at the University of Oklahoma, further refining my skills and
+expertise in the field. A fun fact about me is that I was recently selected by my
+best friend Dr. Fredrico Kiffer to write a reference for his astronaut selection
+candidacy. My reference helped him advance to the next round—a distinction
+earned by only one in one hundred of thousands of candidates.
+
+Throughout my career, I’ve had the privilege of working with leading organizations
+like Wiser Imagery Services, MAXAR Technologies, Lockheed Martin, and The
+Climate Corporation. In these roles, I’ve honed expertise in spatial analysis,
+synthetic aperture radar (SAR), optical imagery, machine learning,
+photogrammetry and geospatial workflows.
+
+Beyond the technical skills, my passion for rock climbing and alpine expeditions
+has sharpened my adaptability, problem-solving abilities, and meticulous planning
+—qualities that I bring to my professional work.
+
+<a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
