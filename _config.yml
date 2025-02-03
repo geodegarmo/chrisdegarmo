@@ -1,7 +1,8 @@
 title: Chris DeGarmo # your name (or website title) here
-logo: "file:///Users/cdegarmo/Documents/personalPhoto/PPhoto.png?raw=true" # your photo (or logo) here
+logo: "geodegarmo.github.io/images/PPhoto.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
+<p>
 Hello All,
 
 My name is Chris DeGarmo, and I’m a Geospatial Research Scientist and Analyst
@@ -21,6 +22,7 @@ photogrammetry and geospatial workflows.
 Beyond the technical skills, my passion for rock climbing and alpine expeditions
 has sharpened my adaptability, problem-solving abilities, and meticulous planning
 —qualities that I bring to my professional work.
+</p> 
 
 <a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
   
