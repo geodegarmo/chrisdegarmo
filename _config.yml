@@ -1,9 +1,9 @@
 title: Chris DeGarmo # your name (or website title) here
 logo: "/images/PPhoto.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Job Experience
+  First Description
   <br><br>
-  4+ years as a Geospatial Analyst with extensive experience in remote sensing and landuse landcover. I’ve had the privilege of working with leading organizations like Wiser Imagery Services, MAXAR Technologies, Lockheed Martin, and The Climate Corporation.
+  5+ years as a Geospatial Analyst with extensive experience in remote sensing and landuse landcover. I’ve had the privilege of working with leading organizations like Wiser Imagery Services, MAXAR Technologies, Lockheed Martin, and The Climate Corporation.
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
