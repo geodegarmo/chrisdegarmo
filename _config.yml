@@ -2,6 +2,7 @@ title: Chris DeGarmo # your name (or website title) here
 logo: "images/headshot.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Throughout my career, I’ve had the privilege of working with leading organizations. I’ve honed expertise in spatial analysis, synthetic aperture radar (SAR), optical imagery, machine learning, photogrammetry and geospatial workflows.
+  <br><br>
   <a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
