@@ -6,6 +6,7 @@
 
 [Using DASK, AWS, and Sentinel-2A images](/sample_page)
 <img src="images/RGB_Image_SanFrancisco.png"/>
+<a ref='https://github.com/geodegarmo/maxar_project'>vist my GitHub!</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
