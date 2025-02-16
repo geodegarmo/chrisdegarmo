@@ -6,7 +6,8 @@
 
 [Using DASK, AWS, and Sentinel-2A images](/sample_page)
 <img src="images/RGB_Image_SanFrancisco.png"/>
-<a ref='https://github.com/geodegarmo/maxar_project'>vist my GitHub!</a>
+<img src="images/rgb_showing_urbanhotspots.png"/>
+<a href='https://github.com/geodegarmo/maxar_project'>GitHub Tutorial on Setting Up An Environment using pip</a>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
