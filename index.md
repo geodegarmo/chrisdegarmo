@@ -2,7 +2,7 @@
 
 ---
 
-### Using Visual Studio Code
+### Using Visual Studio Code to Produce A Global Scale Project with DASK
 
 [Using DASK, AWS, and Sentinel-2A images](/sample_page)
 <img src="images/RGB_Image_SanFrancisco.png"/>
