@@ -5,7 +5,7 @@
 ### Using Visual Studio Code
 
 [Using DASK, AWS, and Sentinel-2A images](/sample_page)
-<img src="chrisdegarmo/images/RGB_Image_SanFrancisco.png"/>
+<img src="images/RGB_Image_SanFrancisco.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
