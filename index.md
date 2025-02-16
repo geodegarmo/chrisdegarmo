@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Using Visual Studio Code
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Using DASK, AWS, and Sentinel-2A images](/sample_page)
+<img src="chrisdegarmo/images/RGB_Image_SanFrancisco.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
