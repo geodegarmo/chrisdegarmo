@@ -10,8 +10,8 @@
 <a href='https://github.com/geodegarmo/maxar_project'>GitHub Tutorial on Setting Up An Environment using pip</a>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[North Mills River Landslide](/sample_page)
+<a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'>North Mills River Landslide</a>
 
 ---
 [Project 3 Title](http://example.com/)
