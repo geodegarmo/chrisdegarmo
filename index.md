@@ -2,9 +2,8 @@
 
 ---
 
-### Using Visual Studio Code to Produce A Global Scale Project with DASK
+### Using Visual Studio Code to Produce A Global Scale Project with DASK, AWS, and Sentinel-2A Images
 
-[Using DASK, AWS, and Sentinel-2A images](/sample_page)
 <img src="images/RGB_Image_SanFrancisco.png"/>
 <img src="images/rgb_showing_urbanhotspots.png"/>
 <a href='https://github.com/geodegarmo/maxar_project'>GitHub Tutorial on Setting Up An Environment using pip</a>
