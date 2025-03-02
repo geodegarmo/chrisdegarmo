@@ -15,7 +15,7 @@
 ---
 ### Earth-Engine Application
 <p>This Earth-Engine application has a button to clip a user drawn area of interest.</p>
-<img src="images/earth-engine_app.jpeg"/>
+<img src="images/earth-engine_app.jpg"/>
 <a href='https://ee-degarmocjd.projects.earthengine.app/view/clipdems'>Earth-Engine Clip A DEM and Export Application</a>
 
 ---
