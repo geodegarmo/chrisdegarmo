@@ -11,6 +11,7 @@
 ---
 ### North Mills River Landslide
 <a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'>North Mills River Landslide</a>
+<p>Captured during the leaf-off season on January 2nd, 2025 in the North Mills River region, near wash creek. The landslide occurred at (-82.67, 35.45), ~5miles from brevard road, and just off of the blue ridge parkway in North Carolina.</p>
 
 ---
 ### Earth-Engine Application
