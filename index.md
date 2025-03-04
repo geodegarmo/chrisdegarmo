@@ -16,10 +16,11 @@
 ---
 ### Earth-Engine Application
 <p>This Earth-Engine application has a button to clip and export a user drawn area of interest.</p>
-<img src="images/earth-engine_app.jpg"/>
-<p><b>Image 1</b></p>
 <h2>Clip and Export a Digital Elevation Model (DEM)</h2>
 <a href='https://ee-degarmocjd.projects.earthengine.app/view/clipdems'>Earth-Engine Clip A DEM and Export Application</a>
+<img src="images/earth-engine_app.jpg"/>
+<p><b>Image 1</b></p>
+
 
 <h3>Location of a Landslide in North Mills River During Hurricane Helene</h3>
 <p>
