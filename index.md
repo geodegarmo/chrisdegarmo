@@ -34,7 +34,7 @@ Using high-resolution images from drone capture (see above video of the landslid
 
 - Area of the landslide: 19,226.4422 m²
 - Perimeter length: 1,296.591 m
-- Mud residue on trees (December observation): Up to 6–9 feet (~1–3 meters) above the ground in the highest parts
+- Mud residue on trees (December observation): Up to 6–9 feet (~2–3 meters) above the ground in the highest parts
 
 Efforts to stabilize and repair the landslide slope have begun. These efforts likely include grading, erosion control, and reinforcement measures to prevent further movement. Continued monitoring and geospatial analysis will help assess the effectiveness of these mitigation efforts and the long-term stability of the site.  Pre- and Post- vegetation with change detection shown as <b>High-Medium-Low</b> (Green-Yellow-Red)<b>(image 2, 3)</b>.</p>
 <h2>Vegetation Health With Sentinel-1 Pre- Hurricane Helene</h2>
