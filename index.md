@@ -42,7 +42,7 @@ Efforts to stabilize and repair the landslide slope have begun. These efforts li
 <p><b>Image 2</b></p>
 <h2>Vegetation Health With Sentinel-1 Post- Hurricane Helene</h2>
 <img src="images/Post_Flood_VV-VH_Vegetation_Index.jpg"/>
-<p>Image 3</p>
+<p><b>Image 3</b></p>
 <h3>Hurricane Helene Vegetation Health Using Sentinel-1</h3>
 <a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Earth-Engine Vegetation Health Pre- and Post- Hurricane Helene</a>
 
