@@ -1,7 +1,7 @@
 title: Chris DeGarmo # your name (or website title) here
 logo: "images/headshot.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Throughout my career, I’ve had the privilege of working with leading organizations. I’ve honed expertise in spatial analysis, synthetic aperture radar (SAR), optical imagery, machine learning, photogrammetry and geospatial workflows.
+  Throughout my career, I've applied cutting-edge geospatial technologies to real-world challenges, from detecting wildfires with PyTorch-based models and mapping Hurricane Helene's impacts through InSAR coherence analysis, to developing continental-scale land cover pipelines using Sentinel-2 super-resolution techniques. My work spans SAR/InSAR processing, optical imagery analysis, machine learning model development, and custom ArcGIS Pro tooling, with hands-on experience using platforms like SNAP, Google Earth Engine, and PyTorch to deliver actionable insights from complex spatial data.
   
   <br><br>
   <a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
