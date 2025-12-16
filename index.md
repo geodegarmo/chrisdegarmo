@@ -1,66 +1,104 @@
 ## Portfolio
+---
+
+### Hurricane Helene Impact Analysis Using InSAR and Optical Imagery
+**Master's Capstone Project | University of Oklahoma**
+
+<img src="images/Pre_Flood_VV-VH_Vegetation_Index.jpg"/>
+<img src="images/Post_Flood_VV-VH_Vegetation_Index.jpg"/>
+
+Comprehensive damage assessment of Hurricane Helene using InSAR coherence change detection and multi-temporal Sentinel-1/2 analysis. Identified and characterized landslides, flooding extents, and vegetation health impacts across western North Carolina.
+
+**Key Results:**
+- Mapped landslide at (-82.68, 35.45) with 19,226 m² affected area
+- Quantified vegetation health changes using VV-VH radar vegetation index
+- Developed interactive Earth Engine applications for damage visualization
+
+<a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Interactive Vegetation Health Application</a> | 
+<a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx'>Landslide Drone Survey Video</a>
+
+**Technologies:** SNAP, Sentinel-1 InSAR, Sentinel-2, Google Earth Engine, Python
 
 ---
 
-### Using Visual Studio Code to Produce A Global Scale Project with DASK, AWS, and Sentinel-2A Images
+### Wildfire Detection Using Deep Learning
+**R&D Project | Wiser Imagery Services**
+
+[Add image of fire detection model output or confusion matrix]
+
+Developed PyTorch-based deep learning models for automated wildfire detection from satellite imagery. Compared CNN architectures with traditional Support Vector Machine approaches for real-time fire monitoring applications.
+
+**Key Results:**
+- [Add specific accuracy/performance metrics]
+- [Mention processing speed or scale]
+
+<a href='[GitHub link if available]'>View Project Details</a>
+
+**Technologies:** PyTorch, Python, Sentinel-2, [other relevant tools]
+
+---
+
+### Continental-Scale Land Cover Classification Pipeline
+**Current Development Project**
+
+[Add visualization of land cover results]
+
+Building an operational 2-meter resolution land cover pipeline for continental-scale processing using Sentinel-2 imagery and super-resolution techniques. Designed for efficient processing of large geographic areas with DASK and cloud computing.
+
+**Key Features:**
+- 2m resolution output from 10m Sentinel-2 input
+- Scalable architecture using DASK for parallel processing
+- AWS integration for large-scale deployment
+
+<a href='https://github.com/geodegarmo/maxar_project'>GitHub Repository</a>
+
+**Technologies:** Python, DASK, AWS, Sentinel-2, GDAL, Rasterio
+
+---
+
+### Custom ArcGIS Pro Tooling Development
+**R&D Project | Wiser Imagery Services**
+
+[Add screenshot of tool interface]
+
+Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, improving team efficiency for elevation annotation and contour labeling tasks.
+
+**Tools Created:**
+- Automated contour annotation system
+- Intelligent elevation labeling with conflict avoidance
+- [Other tools if applicable]
+
+<a href='[GitHub link if available]'>View Code</a>
+
+**Technologies:** ArcGIS Pro SDK, Python, C#
+
+---
+
+### Interactive Geospatial Web Applications
+**Google Earth Engine Development**
+
+<img src="images/earth-engine_app.jpg"/>
+
+Created interactive Earth Engine applications for geospatial analysis and data export workflows.
+
+**Applications:**
+- <a href='https://ee-degarmocjd.projects.earthengine.app/view/clipdems'>DEM Clipping and Export Tool</a> - User-drawn AOI extraction
+- <a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Hurricane Helene Vegetation Health Monitor</a> - Pre/post disaster assessment
+
+**Technologies:** Google Earth Engine, JavaScript, Python
+
+---
+
+### Global-Scale RGB Composite Generation
+**Scalable Satellite Image Processing**
 
 <img src="images/RGB_Image_SanFrancisco.png"/>
 <img src="images/rgb_showing_urbanhotspots.png"/>
-<a href='https://github.com/geodegarmo/maxar_project'>GitHub Tutorial on Setting Up An Environment using pip</a>
+
+Developed cloud-based pipeline for generating global-scale RGB composites from Sentinel-2 imagery using distributed computing frameworks.
+
+<a href='https://github.com/geodegarmo/maxar_project'>GitHub Tutorial</a>
+
+**Technologies:** Python, DASK, AWS, Sentinel-2, Visual Studio Code
 
 ---
-### North Mills River Landslide
-<a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D'>North Mills River Landslide</a>
-<p>Captured during the leaf-off season on January 2nd, 2025 in the North Mills River region, near wash creek. The landslide occurred at (-82.67, 35.45), ~5miles from brevard road, and just off of the blue ridge parkway in North Carolina.</p>
-
----
-### Earth-Engine Application
-<p>This Earth-Engine application has a button to clip and export a user drawn area of interest.</p>
-<h2>Clip and Export a Digital Elevation Model (DEM)</h2>
-<a href='https://ee-degarmocjd.projects.earthengine.app/view/clipdems'>Earth-Engine Clip A DEM and Export Application</a>
-<img src="images/earth-engine_app.jpg"/>
-<p><b>Image 1</b></p>
-
-
-<h3>Location of a Landslide in North Mills River During Hurricane Helene</h3>
-<p>
-A landslide occurred in the North Mills River area as a result of Hurricane Helene, with the following coordinates:
-
-- Longitude: -82.6796575572448
-- Latitude: 35.452981332010076
-- Scale (approx. m/px): 2.388657133911758
-
-Using high-resolution images from drone capture (see above video of the landslide), I analyzed the landslide and gathered the following observations:
-
-- Area of the landslide: 19,226.4422 m²
-- Perimeter length: 1,296.591 m
-- Mud residue on trees (December observation): Up to 6–9 feet (~2–3 meters) above the ground in the highest parts
-
-Efforts to stabilize and repair the landslide slope have begun. These efforts likely include grading, erosion control, and reinforcement measures to prevent further movement. Continued monitoring and geospatial analysis will help assess the effectiveness of these mitigation efforts and the long-term stability of the site.  Pre- and Post- vegetation with change detection shown as <b>High-Medium-Low</b> (Green-Yellow-Red)<b>(image 2, 3)</b>.</p>
-<h2>Vegetation Health With Sentinel-1 Pre- Hurricane Helene</h2>
-<img src="images/Pre_Flood_VV-VH_Vegetation_Index.jpg"/>
-<p><b>Image 2</b></p>
-<h2>Vegetation Health With Sentinel-1 Post- Hurricane Helene</h2>
-<img src="images/Post_Flood_VV-VH_Vegetation_Index.jpg"/>
-<p><b>Image 3</b></p>
-<h3>Hurricane Helene Vegetation Health Using Sentinel-1</h3>
-<a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Earth-Engine Vegetation Health Pre- and Post- Hurricane Helene</a>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-
-<!-- Remove above link if you don't want to attibute -->
