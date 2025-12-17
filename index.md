@@ -9,7 +9,7 @@
 
 
 **Key Results:**
-- Mapped massive and destructive landslide at wash creek (-82.68, 35.45) with a total of 19,226 m² affected area
+- Mapped massive and destructive landslide at wash creek (35.45, -82.68) with a total of 19,226 m² affected area
 - Quantified vegetation health changes using VV-VH radar vegetation index
 - Developed interactive Earth Engine applications for damage visualization
 
