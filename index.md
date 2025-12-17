@@ -15,7 +15,7 @@ Comprehensive damage assessment of Hurricane Helene using InSAR coherence change
 - Developed interactive Earth Engine applications for damage visualization
 
 <a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Interactive Vegetation Health Application</a> | 
-<a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx'>Landslide Drone Survey Video</a>
+<a href='https://sooners-my.sharepoint.com/:v:/r/personal/christopher_j_degarmo-1_ou_edu/Documents/Attachments/MappedLandslide_withDEMS2.mp4?csf=1&web=1&e=LYjyLx](https://sooners-my.sharepoint.com/:v:/g/personal/christopher_j_degarmo-1_ou_edu/IQDQ5ncrgtKWSKr5JpJcrY71AbMIDDYavs6012pKH7ArIvM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=S14nZJ'>Landslide Drone Survey Video</a>
 
 **Technologies:** SNAP, Sentinel-1 InSAR, Sentinel-2, Google Earth Engine, Python
 
