@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Geospatial technologist specializing in SAR/InSAR processing, machine learning, and optical imagery analysis. I develop actionable solutions using platforms like SNAP, Google Earth Engine, and PyTorch, from wildfire detection models to continental-scale land cover pipelines.
   
   <br><br>
-  <a href="https://www.linkedin.com/in/christopher-degarmo-856ba758/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/christopher-degarmo-m-s-856ba758/">View My LinkedIn Profile</a> 
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
