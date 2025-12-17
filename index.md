@@ -80,17 +80,15 @@ First comprehensive application of SAR coherence change detection to a major inl
 ### Wildfire Detection Using Deep Learning
 **R&D Project | Wiser Imagery Services**
 
-[Add image of fire detection model output or confusion matrix]
-
 Developed PyTorch-based deep learning models for automated wildfire detection from satellite imagery. Compared CNN architectures with traditional Support Vector Machine approaches for real-time fire monitoring applications.
 
 **Key Results:**
-- [Add specific accuracy/performance metrics]
-- [Mention processing speed or scale]
+<img src="images/Foundational Model Tests.pdf"/> 
 
-<a href='[GitHub link if available]'>View Project Details</a>
 
-**Technologies:** PyTorch, Python, Sentinel-2, [other relevant tools]
+<!-- <a href='[GitHub link if available]'>View Project Details</a> -->
+
+**Technologies & Systems:** PyTorch, Python, Sentinel-2, HuggingFace Checkpoints
 
 ---
 
