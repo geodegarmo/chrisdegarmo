@@ -83,7 +83,8 @@ First comprehensive application of SAR coherence change detection to a major inl
 Developed PyTorch-based deep learning models for automated wildfire detection from satellite imagery. Compared CNN architectures with traditional Support Vector Machine approaches for real-time fire monitoring applications.
 
 **Key Results:**
-<img src="images/Foundational Model Tests.pdf"/> 
+<img src="images/FoundationTests.png"/> 
+<img src="images/FoundationTests 2.png"/> 
 
 
 <!-- <a href='[GitHub link if available]'>View Project Details</a> -->
