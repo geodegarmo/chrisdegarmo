@@ -39,7 +39,7 @@ First comprehensive application of SAR coherence change detection to a major inl
 **Comprehensive Damage Assessment:**
 - Processed 8.7M pixels at 10m resolution covering Western NC's hurricane-affected region
 - Detected surface changes across 19.3% of study area (1.7M pixels) with significant coherence loss
-- Mapped individual landslide at (-82.68, 35.45) with 19,226 m² affected area using integrated InSAR-optical analysis
+- Mapped individual landslide at (35.45, -82.68) with 19,226 m² affected area using integrated InSAR-optical analysis
 - Quantified vegetation health changes using VV-VH radar vegetation index for ecosystem impact assessment
 - Validated 8.8% of study area as statistically significant change using Getis-Ord Gi* and Local Moran's I spatial statistics
 
@@ -96,7 +96,7 @@ Developed PyTorch-based deep learning models for automated wildfire detection fr
 ### Continental-Scale Land Cover Classification Pipeline
 **Current Development Project**
 
-[Add visualization of land cover results]
+[Add visualization of land cover results "working on this currently"]
 
 Building an operational 2-meter resolution land cover pipeline for continental-scale processing using Sentinel-2 imagery and super-resolution techniques. Designed for efficient processing of large geographic areas with DASK and cloud computing.
 
@@ -107,14 +107,14 @@ Building an operational 2-meter resolution land cover pipeline for continental-s
 
 <a href='https://github.com/geodegarmo/maxar_project'>GitHub Repository</a>
 
-**Technologies:** Python, DASK, AWS, Sentinel-2, GDAL, Rasterio
+**Technologies:** Python, PyTOrch, DASK, AWS, Sentinel-2, GDAL, Rasterio, NAID Imagery
 
 ---
 
 ### Custom ArcGIS Pro Tooling Development
 **R&D Project | Wiser Imagery Services**
 
-[Add screenshot of tool interface]
+[Add screenshot of tool interface "Still checking to see if this is applicable and able to share"]
 
 Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, improving team efficiency for elevation annotation and contour labeling tasks.
 
@@ -123,9 +123,9 @@ Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, imp
 - Intelligent elevation labeling with conflict avoidance
 - [Other tools if applicable]
 
-<a href='[GitHub link if available]'>View Code</a>
+<a href='[GitHub link if available]'>View Code link unavailble currently</a>
 
-**Technologies:** ArcGIS Pro SDK, Python, C#
+**Technologies:** ArcGIS Pro SDK, C#, Visual Studio
 
 ---
 
