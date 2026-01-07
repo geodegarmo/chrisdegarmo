@@ -1,8 +1,7 @@
 title: Chris DeGarmo # your name (or website title) here
 logo: "images/headshot.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Geospatial technologist specializing in SAR/InSAR processing, machine learning, and optical imagery analysis. I develop actionable solutions using platforms like SNAP, Google Earth Engine, and PyTorch, from wildfire detection models to continental-scale land cover pipelines.
-  
+  Geospatial technologist specializing in SAR/InSAR processing, machine learning, and optical imagery analysis.
   <br><br>
   <a href="https://www.linkedin.com/in/christopher-degarmo-m-s-856ba758/">View My LinkedIn Profile</a> 
 
