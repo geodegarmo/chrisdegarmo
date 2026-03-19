@@ -87,8 +87,6 @@ Developed PyTorch-based deep learning models for automated wildfire detection fr
 <img src="images/FoundationTests 2.png"/> 
 
 
-<!-- <a href='[GitHub link if available]'>View Project Details</a> -->
-
 **Technologies & Systems:** PyTorch, Python, Sentinel-2, HuggingFace Checkpoints
 
 ---
@@ -105,7 +103,6 @@ Building an operational 2-meter resolution land cover pipeline for continental-s
 - Scalable architecture using DASK for parallel processing
 - AWS integration for large-scale deployment
 
-<a href='https://github.com/geodegarmo/maxar_project'>GitHub Repository</a>
 
 **Technologies:** Python, PyTOrch, DASK, AWS, Sentinel-2, GDAL, Rasterio, NAID Imagery
 
@@ -123,7 +120,6 @@ Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, imp
 - Intelligent elevation labeling with conflict avoidance
 - [Other tools if applicable]
 
-<a href='[GitHub link if available]'>View Code link unavailble currently</a>
 
 **Technologies:** ArcGIS Pro SDK, C#, Visual Studio
 
