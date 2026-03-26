@@ -117,7 +117,7 @@ Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, imp
 **Tools Created:**
 - Automated contour annotation system
 - Intelligent elevation labeling with conflict avoidance
-- [Other tools if applicable]
+
 
 
 **Technologies:** ArcGIS Pro SDK, C#, Visual Studio
