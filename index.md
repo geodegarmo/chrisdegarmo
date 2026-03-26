@@ -94,7 +94,7 @@ Developed PyTorch-based deep learning models for automated wildfire detection fr
 ### Continental-Scale Land Cover Classification Pipeline
 **Current Development Project**
 
-[Add visualization of land cover results "working on this currently"]
+
 
 Building an operational 2-meter resolution land cover pipeline for continental-scale processing using Sentinel-2 imagery and super-resolution techniques. Designed for efficient processing of large geographic areas with DASK and cloud computing.
 
@@ -111,7 +111,6 @@ Building an operational 2-meter resolution land cover pipeline for continental-s
 ### Custom ArcGIS Pro Tooling Development
 **R&D Project | Wiser Imagery Services**
 
-[Add screenshot of tool interface "Still checking to see if this is applicable and able to share"]
 
 Developed custom ArcGIS Pro add-in tools to automate cartographic workflows, improving team efficiency for elevation annotation and contour labeling tasks.
 
