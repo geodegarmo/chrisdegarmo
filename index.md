@@ -67,7 +67,7 @@ First comprehensive application of SAR coherence change detection to a major inl
 - Created interactive vegetation health monitoring system for pre/post disaster comparison
 - Integrated multi-sensor approach combining InSAR, optical, and elevation data
 
-<a href='[([https://docs.google.com/document/d/1Auc4MV3HTTXLJxeqGQxV3w1Fe4n1zq7n/edit?usp=drive_link&ouid=118101474778123654628&rtpof=true&sd=true](https://docs.google.com/document/d/1Auc4MV3HTTXLJxeqGQxV3w1Fe4n1zq7n/edit?usp=drive_link&ouid=118101474778123654628&rtpof=true&sd=true))]'>Full Research Paper (60+ pages) </a> | 
+[Full Research Paper (60+ pages)](https://docs.google.com/document/d/1Auc4MV3HTTXLJxeqGQxV3w1Fe4n1zq7n/edit?usp=drive_link&ouid=118101474778123654628&rtpof=true&sd=true)
 <a href='https://ee-degarmocjd.projects.earthengine.app/view/vegetationhealths1-s2'>Interactive Vegetation Health Application</a> | 
 
 **Technologies:** Sentinel-1 InSAR (SLC, IW mode), SNAP/SNAPPY, Python (rasterio, GDAL, scikit-learn, NumPy), Sentinel-2, Google Earth Engine, ISCE2, Copernicus DEM, MAXAR WorldView, Getis-Ord Gi*, Local Moran's I, Maximum-Likelihood Change Detection, Enhanced Spectral Diversity Coregistration
